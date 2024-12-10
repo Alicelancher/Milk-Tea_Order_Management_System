@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|f:\\myself\\hzau\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\staff1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:staff1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|f:\\myself\\hzau\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\staff1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:staff1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\deliverer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:deliverer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|f:\\myself\\hzau\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\deliverer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:deliverer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF.csproj|F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\staff1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF.csproj|solutionrelative:staff1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deliverer1.cs",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Deliverer1.cs",
+              "RelativeDocumentMoniker": "Deliverer1.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Deliverer1.cs",
+              "RelativeToolTip": "Deliverer1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:31:02.615Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff1.cs",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Staff1.cs",
+              "RelativeDocumentMoniker": "Staff1.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Staff1.cs",
+              "RelativeToolTip": "Staff1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBgAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:43:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Dao.cs",
+              "RelativeDocumentMoniker": "Dao.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Dao.cs*",
+              "RelativeToolTip": "Dao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:12:47.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:12:43.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deliverer1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Deliverer1.cs",
+              "RelativeDocumentMoniker": "Deliverer1.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Deliverer1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Deliverer1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:30:56.703Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Staff1.cs",
+              "RelativeDocumentMoniker": "Staff1.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Staff1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Staff1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:43:55.726Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staff1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Staff1.cs",
+              "RelativeDocumentMoniker": "Staff1.cs",
+              "ToolTip": "F:\\MySelf\\HZAU\\\u6570\u636E\u5E93\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\\u5976\u8336\u8BA2\u5355\u7CFB\u7EDF\\Staff1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Staff1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:53:50.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

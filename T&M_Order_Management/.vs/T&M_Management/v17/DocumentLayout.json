@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|f:\\myself\\cityu\\course\\5003-srd\\project\\t\u0026m_management\\t\u0026m_management_code\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\deliverer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:deliverer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\administrator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53BCE2DF-7C2B-4097-AADB-9856B13A15AF}|Milk_Tea_Order_Management.csproj|solutionrelative:administrator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deliverer1.cs",
+              "DocumentMoniker": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\Deliverer1.cs",
+              "RelativeDocumentMoniker": "Deliverer1.cs",
+              "ToolTip": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\Deliverer1.cs",
+              "RelativeToolTip": "Deliverer1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:31:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\Dao.cs",
+              "RelativeDocumentMoniker": "Dao.cs",
+              "ToolTip": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\Dao.cs",
+              "RelativeToolTip": "Dao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:10:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrator1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\Administrator1.cs",
+              "RelativeDocumentMoniker": "Administrator1.cs",
+              "ToolTip": "F:\\MySelf\\CityU\\course\\5003-SRD\\project\\T\u0026M_Management\\T\u0026M_Management_Code\\Administrator1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Administrator1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:10:17.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
