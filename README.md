@@ -1,8 +1,12 @@
 # Milk-Tea_Order_Management_System
 Project of SDSC5003 - CityU
+
 Windows 10 Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz 2.50 GHz
+
 Database version:Sqlserver 2008 R2 SP2
+
 Instance Name:TM_SQLEXPRESS
+
 Database name:T&M
 
 # 1 Deploying the database
